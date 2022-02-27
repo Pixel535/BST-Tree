@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639664729 source:d:\mati\moje programy\als\drzewo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
